@@ -8,7 +8,7 @@ public class OddEven {
     }
 
     public static void oddEven() {
-        System.out.println("Input number : ");
+        System.out.println("Input a number : ");
         int n = sc.nextInt();
 
         if (n % 2 == 0) {
