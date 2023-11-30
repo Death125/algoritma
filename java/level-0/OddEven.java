@@ -1,13 +1,17 @@
+
+/*
+ * Guess the odd or even number
+ */
 import java.util.Scanner;
 
 public class OddEven {
-    public static Scanner sc = new Scanner(System.in);
+    private static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        oddEven();
+        guessOddOrEvenNumber();
     }
 
-    public static void oddEven() {
+    public static void guessOddOrEvenNumber() {
         System.out.println("Input a number : ");
         int n = sc.nextInt();
 

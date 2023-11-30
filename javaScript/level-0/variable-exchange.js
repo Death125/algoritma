@@ -1,3 +1,6 @@
+/*
+ * Exchange the value of variable a to variable b and vice versa
+ */
 let favouriteProgrammingLanguage1 = "Java";
 let favouriteProgrammingLanguage2 = "JavaScript";
 let favouriteProgrammingLanguageTemp = "";

@@ -1,8 +1,7 @@
-import java.util.Scanner;
-
+/*
+ * Exchange the value of variable a to variable b and vice versa
+ */
 public class VariableExchange {
-    public static Scanner sc = new Scanner(System.in);
-
     public static void main(String[] args) {
         variableExchange1();
         variableExchange2();
