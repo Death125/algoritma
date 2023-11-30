@@ -1,3 +1,4 @@
+package java_al.level_0;
 
 /*
  * Guess the odd or even number
@@ -20,5 +21,6 @@ public class OddEven {
         } else {
             System.out.println("ODD");
         }
+        sc.close();
     }
 }

@@ -1,3 +1,5 @@
+package java_al.level_0;
+
 /*
  * Search max and min value of an array
  */
